@@ -5,4 +5,4 @@ Menu de navegação toggle.
 
 Um menu toggle utilizando HTML, CSS e Javascript.
 
-Ao clicar no botão de 3 traços, o menu deslizará.
+Ao clicar, ele mostrará o menu.
