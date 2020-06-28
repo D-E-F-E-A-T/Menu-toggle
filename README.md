@@ -1,5 +1,7 @@
 # menu-toggle
-Menu de navegação toggle  básico.
+<h1> Exercício </h1>
+
+Menu de navegação toggle.
 
 Um menu toggle utilizando HTML, CSS e Javascript.
 
