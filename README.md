@@ -1,4 +1,7 @@
 # menu-toggle
+
+ ![](menuJS/menuToggle.gif)
+ 
 <h1> Exercício </h1>
 
 Menu de navegação toggle.
