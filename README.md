@@ -1,6 +1,4 @@
 # menu-toggle
-
- ![](menuJS/menuToggle.gif)
  
 <h1> Exercício </h1>
 
