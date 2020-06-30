@@ -4,8 +4,8 @@
  
 <h1> Exercício </h1>
 
-Menu de navegação toggle.
+Menu de navegação.
 
-Um menu toggle utilizando HTML, CSS e Javascript.
+Menu toggle utilizando HTML, CSS e Javascript.
 
 Ao clicar, ele mostrará o menu.
