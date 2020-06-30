@@ -1,6 +1,6 @@
 # menu-toggle
 
- ![](jabasico/menuJS/menuToggle.gif)
+ ![](/menuJS/menuToggle.gif)
  
 <h1> Exercício </h1>
 
